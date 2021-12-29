@@ -3,7 +3,7 @@ Simple python script to Extract Specific portion of text inside a log file.
 
 
 ## Example:
-Extracting lines with Error in a log file.\
+Extracting lines with **ERROR** substring in a log file.\
 *search_string = "error"*\
 `python3 main.py`
 
