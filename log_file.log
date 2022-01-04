@@ -1,6 +1,0 @@
-2021-12-09 00:00:08,587 INFO: Created File_Test.txt
-2021-12-09 09:00:28,056 INFO: Created File_Test2.txt
-2021-12-09 09:01:00,010 ERROR: Exists already: "File_Test.txt"
-2021-12-09 10:00:04,054 INFO: Created New_file.txt
-2021-12-25 00:00:12,869 INFO: Upload initiated: New_file.txt
-2021-12-25 00:00:34,051 INFO: Upload complete: New_file.txt - meta_key: '4VBV&^z-UTT%Vy6aOlTKP1k-0QHb6zfwG0$Dhs9O1KTY1k-7dJcZrOZ*1l'
